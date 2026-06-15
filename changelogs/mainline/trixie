@@ -3,49 +3,49 @@ python3.11 (3.11.15-1+trixie2) trixie; urgency=medium
   * Rebrand packaging metadata for Dockershelf.
 
  -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Mon, 15 Jun 2026 00:14:06 +0000
-python3.11 (3.11.15-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 03 Mar 2026 09:26:23 +0000
 
-python3.11 (3.11.14-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 10 Oct 2025 08:54:04 +0000
 
-python3.11 (3.11.13-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Jun 2025 08:57:30 +0000
 
-python3.11 (3.11.12-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.12-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.12.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 09 Apr 2025 08:55:55 +0000
 
-python3.11 (3.11.11-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Dec 2024 08:55:08 +0000
 
-python3.11 (3.11.10-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-1+trixie1) trixie; urgency=medium
 
   * Python 3.11.10 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 07 Sep 2024 18:35:41 +0000
 
-python3.11 (3.11.9-1+trixie3 ) trixie; urgency=medium
+python3.11 (3.11.9-1+trixie3) trixie; urgency=medium
 
   * adjust sysconfig substitution flags to avoid quotes.
 
  -- Anthony Sottile <asottile@umich.edu>  Sat, 27 Apr 2024 17:16:11 -0400
 
-python3.11 (3.11.9-1+trixie2 ) trixie; urgency=medium
+python3.11 (3.11.9-1+trixie2) trixie; urgency=medium
 
   * Repackage for ubuntu noble.
 

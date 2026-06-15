@@ -1,382 +1,382 @@
-python3.11 (3.11.15-22-ga7370a9c2d-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-22-ga7370a9c2d-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-22-ga7370a9c2d.
 
  -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Mon, 15 Jun 2026 00:14:12 +0000
 
-python3.11 (3.11.15-20-g3b80905fdc-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-20-g3b80905fdc-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-20-g3b80905fdc.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 18 May 2026 12:05:59 +0000
 
-python3.11 (3.11.15-19-g9a23b75355-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-19-g9a23b75355-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-19-g9a23b75355.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 01 May 2026 10:11:40 +0000
 
-python3.11 (3.11.15-17-ge20c6c9667-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-17-ge20c6c9667-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-17-ge20c6c9667.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 14 Apr 2026 10:01:12 +0000
 
-python3.11 (3.11.15-15-g776d39f2be-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-15-g776d39f2be-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-15-g776d39f2be.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 12 Apr 2026 09:31:28 +0000
 
-python3.11 (3.11.15-14-g642865ddf4-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-14-g642865ddf4-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-14-g642865ddf4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 09 Apr 2026 09:55:35 +0000
 
-python3.11 (3.11.15-12-g0ec71cd104-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-12-g0ec71cd104-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-12-g0ec71cd104.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 07 Apr 2026 09:49:32 +0000
 
-python3.11 (3.11.15-11-gf07b4005d9-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-11-gf07b4005d9-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-11-gf07b4005d9.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 06 Apr 2026 09:51:54 +0000
 
-python3.11 (3.11.15-8-g96fc504860-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-8-g96fc504860-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-8-g96fc504860.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 04 Apr 2026 09:23:27 +0000
 
-python3.11 (3.11.15-7-ga78cbed740-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-7-ga78cbed740-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-7-ga78cbed740.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 03 Apr 2026 09:38:03 +0000
 
-python3.11 (3.11.15-6-g1729d99f09-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-6-g1729d99f09-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-6-g1729d99f09.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 02 Apr 2026 09:43:31 +0000
 
-python3.11 (3.11.15-5-g5ed08c4a82-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-5-g5ed08c4a82-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-5-g5ed08c4a82.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 31 Mar 2026 09:45:29 +0000
 
-python3.11 (3.11.15-4-gceac1efc66-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-4-gceac1efc66-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-4-gceac1efc66.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 25 Mar 2026 09:36:50 +0000
 
-python3.11 (3.11.15-3-g86a67f8acc-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-3-g86a67f8acc-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-3-g86a67f8acc.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 06 Mar 2026 09:21:59 +0000
 
-python3.11 (3.11.15-1-g30447075e3-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.15-1-g30447075e3-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.15-1-g30447075e3.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Mar 2026 09:24:12 +0000
 
-python3.11 (3.11.14-20-g15c1d6a549-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-20-g15c1d6a549-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-20-g15c1d6a549.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 27 Feb 2026 09:25:19 +0000
 
-python3.11 (3.11.14-19-gee902ce9e4-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-19-gee902ce9e4-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-19-gee902ce9e4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 06 Feb 2026 09:27:39 +0000
 
-python3.11 (3.11.14-18-g11a1e4e079-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-18-g11a1e4e079-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-18-g11a1e4e079.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Feb 2026 09:26:52 +0000
 
-python3.11 (3.11.14-17-gafc40bdd3d-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-17-gafc40bdd3d-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-17-gafc40bdd3d.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 26 Jan 2026 09:04:01 +0000
 
-python3.11 (3.11.14-10-ge4846a93ac-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-10-ge4846a93ac-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-10-ge4846a93ac.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 21 Jan 2026 09:03:09 +0000
 
-python3.11 (3.11.14-9-gcf039bc7a1-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-9-gcf039bc7a1-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-9-gcf039bc7a1.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 14 Jan 2026 09:02:02 +0000
 
-python3.11 (3.11.14-8-g0b8e4fe493-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-8-g0b8e4fe493-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-8-g0b8e4fe493.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 30 Dec 2025 08:59:39 +0000
 
-python3.11 (3.11.14-7-g9bbb68a524-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-7-g9bbb68a524-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-7-g9bbb68a524.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 26 Nov 2025 08:57:38 +0000
 
-python3.11 (3.11.14-6-g3b7d81da07-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-6-g3b7d81da07-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-6-g3b7d81da07.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 01 Nov 2025 08:51:30 +0000
 
-python3.11 (3.11.14-1-g88f3f5b5f1-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.14-1-g88f3f5b5f1-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.14-1-g88f3f5b5f1.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 11 Oct 2025 08:50:14 +0000
 
-python3.11 (3.11.13-19-g7362ffdfe9-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-19-g7362ffdfe9-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-19-g7362ffdfe9.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 09 Oct 2025 08:54:53 +0000
 
-python3.11 (3.11.13-17-g22d5724fbb-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-17-g22d5724fbb-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-17-g22d5724fbb.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 08 Oct 2025 08:54:41 +0000
 
-python3.11 (3.11.13-16-g1459d1f1f1-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-16-g1459d1f1f1-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-16-g1459d1f1f1.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 07 Oct 2025 08:54:17 +0000
 
-python3.11 (3.11.13-15-g8adac492d4-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-15-g8adac492d4-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-15-g8adac492d4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 30 Sep 2025 08:55:29 +0000
 
-python3.11 (3.11.13-14-g6cb164975e-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-14-g6cb164975e-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-14-g6cb164975e.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 29 Sep 2025 08:55:16 +0000
 
-python3.11 (3.11.13-13-g048f00d660-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-13-g048f00d660-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-13-g048f00d660.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 27 Sep 2025 08:50:10 +0000
 
-python3.11 (3.11.13-12-g987af36a71-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-12-g987af36a71-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-12-g987af36a71.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 25 Sep 2025 08:55:53 +0000
 
-python3.11 (3.11.13-11-g262aa73bd7-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-11-g262aa73bd7-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-11-g262aa73bd7.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 14 Sep 2025 08:49:58 +0000
 
-python3.11 (3.11.13-8-gb4ec17488e-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-8-gb4ec17488e-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-8-gb4ec17488e.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 20 Aug 2025 08:55:07 +0000
 
-python3.11 (3.11.13-7-g3511c2e546-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-7-g3511c2e546-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-7-g3511c2e546.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 23 Jul 2025 09:00:33 +0000
 
-python3.11 (3.11.13-6-g228509edab-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-6-g228509edab-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-6-g228509edab.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 13 Jul 2025 08:56:10 +0000
 
-python3.11 (3.11.13-4-gf3c6f882cd-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-4-gf3c6f882cd-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-4-gf3c6f882cd.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 04 Jul 2025 08:57:20 +0000
 
-python3.11 (3.11.13-3-g313544eb03-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-3-g313544eb03-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-3-g313544eb03.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 17 Jun 2025 08:58:21 +0000
 
-python3.11 (3.11.13-2-gc96ab19ae4-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-2-gc96ab19ae4-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-2-gc96ab19ae4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 12 Jun 2025 08:57:09 +0000
 
-python3.11 (3.11.13-1-gc79b99d1a4-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.13-1-gc79b99d1a4-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.13-1-gc79b99d1a4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 05 Jun 2025 08:56:28 +0000
 
-python3.11 (3.11.12-4-gf8b4421bc5-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.12-4-gf8b4421bc5-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.12-4-gf8b4421bc5.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 03 Jun 2025 08:57:33 +0000
 
-python3.11 (3.11.12-2-g461ca2cbfb-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.12-2-g461ca2cbfb-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.12-2-g461ca2cbfb.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 15 May 2025 08:55:40 +0000
 
-python3.11 (3.11.12-1-gab47462618-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.12-1-gab47462618-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.12-1-gab47462618.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 10 Apr 2025 08:54:26 +0000
 
-python3.11 (3.11.11-20-gba49eab9aa-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-20-gba49eab9aa-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-20-gba49eab9aa.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 04 Apr 2025 08:53:19 +0000
 
-python3.11 (3.11.11-17-gf576d31d1c-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-17-gf576d31d1c-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-17-gf576d31d1c.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 14 Mar 2025 08:52:29 +0000
 
-python3.11 (3.11.11-16-g6b37486184-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-16-g6b37486184-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-16-g6b37486184.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 12 Mar 2025 08:53:05 +0000
 
-python3.11 (3.11.11-15-gf1897d312e-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-15-gf1897d312e-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-15-gf1897d312e.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 28 Feb 2025 08:51:19 +0000
 
-python3.11 (3.11.11-14-g3abcace681-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-14-g3abcace681-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-14-g3abcace681.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 20 Feb 2025 08:51:09 +0000
 
-python3.11 (3.11.11-10-gb2c3a95c97-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-10-gb2c3a95c97-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-10-gb2c3a95c97.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 19 Feb 2025 08:51:45 +0000
 
-python3.11 (3.11.11-8-g77ca2f66ea-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-8-g77ca2f66ea-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-8-g77ca2f66ea.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 13 Feb 2025 08:50:44 +0000
 
-python3.11 (3.11.11-5-g45db419c31-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-5-g45db419c31-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-5-g45db419c31.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 24 Jan 2025 08:50:04 +0000
 
-python3.11 (3.11.11-4-g49edb990a5-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-4-g49edb990a5-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-4-g49edb990a5.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 23 Jan 2025 08:50:12 +0000
 
-python3.11 (3.11.11-3-ga83a7cfff4-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-3-ga83a7cfff4-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-3-ga83a7cfff4.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 22 Jan 2025 08:51:04 +0000
 
-python3.11 (3.11.11-2-gf0895aa9c1-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-2-gf0895aa9c1-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-2-gf0895aa9c1.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 12 Dec 2024 08:54:34 +0000
 
-python3.11 (3.11.11-1-g976c4f2a9d-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.11-1-g976c4f2a9d-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.11-1-g976c4f2a9d.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 05 Dec 2024 08:54:14 +0000
 
-python3.11 (3.11.10-8-g7f71003b22-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-8-g7f71003b22-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.10-8-g7f71003b22.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sun, 01 Dec 2024 08:52:19 +0000
 
-python3.11 (3.11.10-7-ge33b6fccd3-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-7-ge33b6fccd3-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.10-7-ge33b6fccd3.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 09 Nov 2024 08:50:03 +0000
 
-python3.11 (3.11.10-6-g8c6885d636-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-6-g8c6885d636-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.10-6-g8c6885d636.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 07 Nov 2024 08:51:20 +0000
 
-python3.11 (3.11.10-5-gae961ae94b-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-5-gae961ae94b-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.10-5-gae961ae94b.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 02 Nov 2024 08:50:00 +0000
 
-python3.11 (3.11.10-4-ge84015f846-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-4-ge84015f846-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.10-4-ge84015f846.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 23 Oct 2024 08:52:47 +0000
 
-python3.11 (3.11.10-1-g8b275e77d2-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-1-g8b275e77d2-1+trixie1) trixie; urgency=medium
 
   * Update to v3.11.10-1-g8b275e77d2.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 14 Sep 2024 22:19:02 +0000
 
-python3.11 (3.11.10-1+trixie1 ) trixie; urgency=medium
+python3.11 (3.11.10-1+trixie1) trixie; urgency=medium
 
   * Python 3.11.10 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 07 Sep 2024 18:35:41 +0000
 
-python3.11 (3.11.9-1+trixie3 ) trixie; urgency=medium
+python3.11 (3.11.9-1+trixie3) trixie; urgency=medium
 
   * adjust sysconfig substitution flags to avoid quotes.
 
  -- Anthony Sottile <asottile@umich.edu>  Sat, 27 Apr 2024 17:16:11 -0400
 
-python3.11 (3.11.9-1+trixie2 ) trixie; urgency=medium
+python3.11 (3.11.9-1+trixie2) trixie; urgency=medium
 
   * Repackage for ubuntu noble.
 

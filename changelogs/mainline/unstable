@@ -3,169 +3,169 @@ python3.11 (3.11.15-1+unstable2) unstable; urgency=medium
   * Rebrand packaging metadata for Dockershelf.
 
  -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Mon, 15 Jun 2026 00:14:06 +0000
-python3.11 (3.11.15-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.15-1+unstable1) unstable; urgency=medium
 
   * Update to v3.11.15.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 03 Mar 2026 09:26:23 +0000
 
-python3.11 (3.11.14-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.14-1+unstable1) unstable; urgency=medium
 
   * Update to v3.11.14.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 10 Oct 2025 08:54:03 +0000
 
-python3.11 (3.11.13-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.13-1+unstable1) unstable; urgency=medium
 
   * Update to v3.11.13.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Jun 2025 08:57:29 +0000
 
-python3.11 (3.11.12-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.12-1+unstable1) unstable; urgency=medium
 
   * Update to v3.11.12.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 09 Apr 2025 08:55:54 +0000
 
-python3.11 (3.11.11-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.11-1+unstable1) unstable; urgency=medium
 
   * Update to v3.11.11.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 04 Dec 2024 08:55:07 +0000
 
-python3.11 (3.11.10-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.10-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.10 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 07 Sep 2024 18:35:41 +0000
 
-python3.11 (3.11.9-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.9-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.9 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 06 Apr 2024 17:59:24 +0000
 
-python3.11 (3.11.8-1+unstable2 ) unstable; urgency=medium
+python3.11 (3.11.8-1+unstable2) unstable; urgency=medium
 
   * Update idlelib's NEWS filename.
 
  -- Anthony Sottile <asottile@umich.edu>  Sun, 25 Feb 2024 11:39:33 -0500
 
-python3.11 (3.11.8-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.8-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.8 release.
 
  -- Anthony Sottile <asottile@umich.edu>  Sun, 18 Feb 2024 18:51:26 +0000
 
-python3.11 (3.11.7-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.7-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.7 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 08 Dec 2023 18:56:58 +0000
 
-python3.11 (3.11.6-1+unstable2 ) unstable; urgency=medium
+python3.11 (3.11.6-1+unstable2) unstable; urgency=medium
 
   * update postinst for -testsuite pyc compilation
 
  -- Anthony Sottile <asottile@umich.edu>  Mon, 23 Oct 2023 18:48:54 -0400
 
-python3.11 (3.11.6-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.6-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.6 release.
 
  -- Anthony Sottile <asottile@umich.edu>  Sun, 22 Oct 2023 17:36:06 -0400
 
-python3.11 (3.11.5-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.5-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.5 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 25 Aug 2023 13:19:50 +0000
 
-python3.11 (3.11.4-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.4-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.4 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 07 Jun 2023 12:45:48 +0000
 
-python3.11 (3.11.3-1+unstable2 ) unstable; urgency=medium
+python3.11 (3.11.3-1+unstable2) unstable; urgency=medium
 
   * remove unnecessary patch
 
  -- Anthony Sottile <asottile@umich.edu>  Mon, 05 Jun 2023 11:49:07 -0400
 
-python3.11 (3.11.3-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.3-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.3 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 05 Apr 2023 14:14:37 +0000
 
-python3.11 (3.11.2-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.2-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.2 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 08 Feb 2023 14:49:25 +0000
 
-python3.11 (3.11.1-1+unstable2 ) unstable; urgency=medium
+python3.11 (3.11.1-1+unstable2) unstable; urgency=medium
 
   * fix sysconfig paths for deb_system and posix_local
 
  -- Anthony Sottile <asottile@umich.edu>  Sat, 28 Jan 2023 13:47:50 -0500
 
-python3.11 (3.11.1-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.1-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.1 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 07 Dec 2022 01:11:34 +0000
 
-python3.11 (3.11.0-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 24 Oct 2022 19:56:13 +0000
 
-python3.11 (3.11.0~rc2-1+unstable2 ) unstable; urgency=medium
+python3.11 (3.11.0~rc2-1+unstable2) unstable; urgency=medium
 
   * Remove python3.11-{tk,gdbm,lib2to3,distutils} since ubuntu backported them.
 
  -- Anthony Sottile <asottile@umich.edu>  Sat, 15 Oct 2022 13:10:53 -0400
 
-python3.11 (3.11.0~rc2-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~rc2-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 release candidate 2.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Tue, 13 Sep 2022 15:08:15 +0000
 
-python3.11 (3.11.0~rc1-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~rc1-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 release candidate 1.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 08 Aug 2022 18:31:02 +0000
 
-python3.11 (3.11.0~b5-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~b5-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 beta 5 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Wed, 27 Jul 2022 15:15:10 +0000
 
-python3.11 (3.11.0~b4-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~b4-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 beta 4 release.
 
  -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Mon, 11 Jul 2022 23:01:18 +0000
 
-python3.11 (3.11.0~b3-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~b3-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 beta 3 release.
 
  -- Anthony Sottile <asottile@umich.edu>  Wed, 01 Jun 2022 19:49:29 -0400
 
-python3.11 (3.11.0~b1-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~b1-1+unstable1) unstable; urgency=medium
 
   * Python 3.11.0 beta 1 release.
 
  -- Anthony Sottile <asottile@umich.edu>  Mon, 09 May 2022 18:11:29 -0400
 
-python3.11 (3.11.0~a7-1+unstable1 ) unstable; urgency=medium
+python3.11 (3.11.0~a7-1+unstable1) unstable; urgency=medium
 
   * repackage focal for jammy.
 
