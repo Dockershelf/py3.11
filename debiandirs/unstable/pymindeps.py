@@ -121,7 +121,7 @@ excluded_imports = {
     'os': set(('nt', 'ntpath', 'os2', 'os2emxpath', 'mac', 'macpath',
                'riscos', 'riscospath', 'riscosenviron')),
     'optparse': set(('gettext',)),
-    # XXX: pathlib actually depends on ntpath: deadsnakes/issues#176
+    # XXX: pathlib actually depends on ntpath (packaging depgraph workaround)
     'pathlib': set(('ntpath', 'urllib',)), # Windows only
     'pickle': set(('argparse', 'doctest', 'pprint')),
     'platform': set(('ctypes', 'plistlib', 'tempfile')),
