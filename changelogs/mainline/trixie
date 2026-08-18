@@ -1,3 +1,9 @@
+python3.11 (3.11.16-1+trixie1) trixie; urgency=medium
+
+  * Update to v3.11.16.
+
+ -- Luis Alejandro Martínez Faneyth <luis@luisalejandro.org>  Tue, 18 Aug 2026 02:56:49 +0000
+
 python3.11 (3.11.15-1+trixie2) trixie; urgency=medium
 
   * Rebrand packaging metadata for Dockershelf.
